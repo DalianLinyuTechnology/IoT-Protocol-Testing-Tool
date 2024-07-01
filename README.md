@@ -8,32 +8,14 @@ IoT protocol testing tools are used to verify and ensure the validity and compat
 <a href="https://www.linyu666.com/solutionZhgl.html">智慧管廊(Smart pipe gallery system)</a><br>
 简介：智慧管廊系统是一项领先的城市基础设施管理解决方案，采用先进的传感器和监控技术，全面监测城市的管道网络。通过实时收集温度、压力、流量等关键参数，系统能够迅速识别潜在问题，并提供即时的预警系统，有助于防范管道泄漏、损坏等危险情况。这种智能监测不仅提高了管道系统的安全性，还能有效降低维护成本，为城市的可持续发展提供了重要支持。<br>
 
-智慧能源(Energy Management System)
-https://www.linyu666.com/solutionEnergy.html
+<a href="https://www.linyu666.com/solutionEnergy.html"> 智慧能源(Energy Management System) </a><br>
+<a href="https://www.linyu666.com/solutionHjjc.html"> 环境监测(environmental monitoring) </a><br>
+<a href="https://www.linyu666.com/solutionSmartPark.html"> 智慧园区(Smart Park) </a><br>
+<a href="https://www.linyu666.com/solutionSbgl.html">设备管理(Facility Management System)  </a><br>
+<a href="https://www.linyu666.com/solutionSjcj.html">  数据采集(Data collection system)</a><br>
+<a href="https://www.linyu666.com/solutionMes.html">智能制造(MES system)  </a><br>
+<a href="https://www.linyu666.com/solutionZhgr.html">智慧供热(Smart heating system)  </a><br>
+<a href="https://www.linyu666.com/solutionJfdh.html">机房动环(Computer room dynamic ring system)  </a><br>
+<a href="https://www.linyu666.com/solutionZhjq.html"> 智慧景区(Smart scenic spot) </a><br>
+<a href="https://www.linyu666.com/ptXxhWy.html"> 物业管理(property management) </a><br>
 
-环境监测(environmental monitoring)
-https://www.linyu666.com/solutionHjjc.html
-
-智慧园区(Smart Park)
-https://www.linyu666.com/solutionSmartPark.html
-
-设备管理(Facility Management System)
-https://www.linyu666.com/solutionSbgl.html
-
-数据采集(Data collection system)
-https://www.linyu666.com/solutionSjcj.html
-
-智能制造(MES system)
-https://www.linyu666.com/solutionMes.html
-
-智慧供热(Smart heating system)
-https://www.linyu666.com/solutionZhgr.html
-
-机房动环(Computer room dynamic ring system)
-https://www.linyu666.com/solutionJfdh.html
-
-智慧景区(Smart scenic spot)
-https://www.linyu666.com/solutionZhjq.html
-
-物业管理(property management)
-https://www.linyu666.com/ptXxhWy.html
