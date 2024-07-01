@@ -1,5 +1,5 @@
 # IoT-Protocol-Testing-Tool
-IoT protocol testing tools are used to verify and ensure the validity and compatibility of communication protocols between IoT devices, sensors, and platforms. Testing software for different protocols (e.g. MQTT, OPC, HTTP, MODBUS, etc.) is provided to help developers and engineers evaluate and debug the communication performance of IoT systems.
+IoT protocol testing tools are used to verify and ensure the validity and compatibility of communication protocols between IoT devices, sensors, and platforms. Testing software for different protocols (e.g. MQTT, OPC, HTTP, MODBUS, etc.) is provided to help developers and engineers evaluate and debug the communication performance of IoT systems.<br>物联网协议测试工具用于验证和确保物联网设备、传感器和平台之间通信协议的有效性和兼容性。提供不同协议的测试软件（例如MQTT、OPC、HTTP、MODBUS等），以帮助开发人员和工程师评估和调试物联网系统的通信性能。
 
 # IoT product recommendation<br>物联网产品推荐<br>
 智慧楼宇(IBMS)
